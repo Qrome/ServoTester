@@ -5,7 +5,7 @@
 * Full Servo Motion Testing (press button)
 * LED Power on indicator
 * LED lights up when Servo Motion button is pressed
-* Power from VIN Battery or BEC
+* Power with Battery or ESC/BEC
 * Option to power over USB (Arduino Nano)
 
 ## Servo Tester Kit:
