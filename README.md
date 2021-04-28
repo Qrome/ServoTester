@@ -13,11 +13,6 @@ ServoTester Kit:
 
 ![ServoTester](/images/Qrome_ServoTester.jpg)  
 
-## Source Your Own Parts:
-* Arduino (Nano) or similar 
-* Momentary button or switch (with pullup resistor)
-* External LED Optional
-
 ## Wiring for the Wemos D1 Mini to the Dot Matrix Display
 Servo 1 - D8  
 Servo 2 - D9  
