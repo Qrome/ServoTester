@@ -13,7 +13,7 @@ ServoTester Kit:
 
 ![ServoTester](/images/Qrome_ServoTester.jpg)  
 
-## Wiring for the Wemos D1 Mini to the Dot Matrix Display
+## Wiring for the Arduino Nano
 Servo 1 - D8  
 Servo 2 - D9  
 Servo 3 - D10  
