@@ -70,6 +70,9 @@ void loop()
     digitalWrite(13, LOW);
     centerServos();
   }
+  if (pos == center) {
+    digitalWrite(13, LOW);
+  }
 }
 
 void centerServos() {
