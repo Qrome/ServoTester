@@ -25,7 +25,8 @@ Case for the ServoTester Kit: https://www.thingiverse.com/qrome/designs
 ## Compiling and Loading to Arduino Nano
 It is recommended to use Arduino IDE. 
 * USB CH340G drivers:  https://sparks.gogo.co.nz/ch340.html
-* Select Board:  "Arduino Pro or Pro Mini"
+* Select Board:  "Arduino Nano"
+* Select Processor:  Atmega 168 or Atmega 328P (kit with red board is 168)
 * Select the **Port** from the tools menu.  
 
 ## Donation or Tip
