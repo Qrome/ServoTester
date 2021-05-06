@@ -21,7 +21,7 @@ Servo 3 - D10
 Button D2  
 
 ## 3D Printed Case by David Payne:  
-Case for the ServoTester Kit: https://www.thingiverse.com/thing:4850678 
+Case for the ServoTester Kit: https://www.thingiverse.com/thing:4850962
 
 ## Compiling and Loading to Arduino Nano
 It is recommended to use Arduino IDE. 
